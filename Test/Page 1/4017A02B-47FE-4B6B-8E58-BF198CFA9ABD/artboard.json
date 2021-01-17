@@ -50,6 +50,10 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "oval",
+      "id": "4E42061C-D47E-4F1B-BDDA-21D362340BCF"
+    },
+    {
       "class": "text",
       "id": "9CD5A1FE-BD6A-4556-87CA-9793A025AF58"
     }
