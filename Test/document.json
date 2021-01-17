@@ -1,0 +1,124 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "71C7AA0A-F81A-4471-90D0-F3994A6F5839",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "4e9b5561-58c0-11eb-87f8-a3ceda45fd4c",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "04B9CD0F-53C5-4B06-A84D-6CB77A7EA831",
+      "fontFamilyName": "Red Hat Text",
+      "fontFileName": "RedHatText-Medium (1).ttf",
+      "options": 2,
+      "postscriptNames": [
+        "RedHatText-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "35AE1CCE-791B-4126-92FF-EE4F7363766E",
+      "fontFamilyName": "Red Hat Text",
+      "fontFileName": "RedHatText-MediumItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "RedHatText-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "75A6293D-392A-44EB-86F4-5B0A69FE548E",
+      "fontFamilyName": "Red Hat Text",
+      "fontFileName": "RedHatText-Bold (1).ttf",
+      "options": 0,
+      "postscriptNames": [
+        "RedHatText-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D31C7F23-DFF7-448E-AE46-876459DEF3F7",
+      "fontFamilyName": "Red Hat Text",
+      "fontFileName": "RedHatText-Regular.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "RedHatText-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EEAA3BE4-25D6-49ED-B336-BD4B23CB6F22",
+      "fontFamilyName": "Red Hat Text",
+      "fontFileName": "RedHatText-BoldItalic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "RedHatText-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F9B99F2F-DCB7-4633-A05D-BB696FB3FF0B",
+      "fontFamilyName": "Red Hat Text",
+      "fontFileName": "RedHatText-Italic.ttf",
+      "options": 0,
+      "postscriptNames": [
+        "RedHatText-Italic"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "61A7704F-5ADB-11EB-87F8-A8CCDA648421",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "70.3",
+    "build": 109109,
+    "version": 134
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "77AB744F-5ADB-11EB-87F8-A8CCDA648A2D",
+    "objects": [
+    ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
+}
