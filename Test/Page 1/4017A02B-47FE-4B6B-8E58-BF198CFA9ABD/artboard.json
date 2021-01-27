@@ -54,8 +54,16 @@
       "id": "4E42061C-D47E-4F1B-BDDA-21D362340BCF"
     },
     {
+      "class": "oval",
+      "id": "D3827BC6-D551-481B-9B3B-A8D6CE6EAC52"
+    },
+    {
       "class": "text",
       "id": "9CD5A1FE-BD6A-4556-87CA-9793A025AF58"
+    },
+    {
+      "class": "text",
+      "id": "99DDD551-BBCB-4D67-A303-C90733314CDE"
     }
   ],
   "name": "Desktop HD",
