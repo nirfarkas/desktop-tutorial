@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 25,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "This is a test for Kactus"
+    "string": "This is Nir’s branch"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 64,
-    "width": 522,
-    "x": 459,
+    "width": 419,
+    "x": 510.5,
     "y": 480
   },
-  "glyphBounds": "{{1, 12}, {519, 38}}",
+  "glyphBounds": "{{1, 13}, {415, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "This is a test for K",
+  "name": "This is Nir’s branch",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
