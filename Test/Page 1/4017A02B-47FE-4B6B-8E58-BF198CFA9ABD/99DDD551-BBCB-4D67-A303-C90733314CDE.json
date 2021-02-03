@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0.3372549019607843,
-            "red": 0.4745098039215686
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 25,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "This is a test for Kactus"
+    "string": "Shiran’s branch"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 64,
-    "width": 522,
-    "x": 459,
-    "y": 112
+    "width": 345,
+    "x": 547.5,
+    "y": 480
   },
-  "glyphBounds": "{{1, 12}, {519, 38}}",
+  "glyphBounds": "{{1, 13}, {341, 37}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "This is a test for K Copy",
+  "name": "Shiran’s branch",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -122,9 +122,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0.3372549019607843,
-          "red": 0.4745098039215686
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
