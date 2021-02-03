@@ -29,11 +29,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 25,
+        "length": 20,
         "location": 0
       }
     ],
-    "string": "This is a test for Kactus"
+    "string": "Foday’s take on this"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,11 +53,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 64,
-    "width": 522,
-    "x": 459,
+    "width": 448,
+    "x": 496,
     "y": 480
   },
-  "glyphBounds": "{{1, 12}, {519, 38}}",
+  "glyphBounds": "{{4, 13}, {442, 47}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -66,7 +66,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 3,
-  "name": "This is a test for K",
+  "name": "Foday’s take on this",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
